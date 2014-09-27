@@ -1,0 +1,18 @@
+{
+  "name": "webarista-brand",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sethjgore/brand",
+  "authors": [
+    "sethjgore <sethjgore@gmail.com>"
+  ],
+  "main": "wb-logo.svg",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
